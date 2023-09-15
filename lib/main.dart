@@ -105,6 +105,7 @@ class _SplashScreenGameState extends State<SplashScreenGame> {
             },
           ),
           if (showInitDialog) InitAlert(),
+          // if (showInitDialog) bottomNavi(),
         ],
       ),
     );

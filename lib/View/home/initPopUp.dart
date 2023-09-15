@@ -31,6 +31,7 @@ class _InitAlertState extends State<InitAlert> {
     try {
       result = await AsyncWallpaper.setLiveWallpaper(
         filePath: file.path,
+        // goToHome: false,
         toastDetails: ToastDetails.success(),
         errorToastDetails: ToastDetails.error(),
       )

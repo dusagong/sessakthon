@@ -55,7 +55,7 @@ dev_dependencies:
   async_wallpaper: ^2.0.3
   flutter_cache_manager: ^3.3.0
   flutter_lints: ^2.0.0
-  screen_state: ^2.0.0
+  screen_state: ^3.0.1
   flutter_gif: ^0.0.4
   flutter_wallpaper_manager: ^0.0.3
   path_provider: ^2.0.15
